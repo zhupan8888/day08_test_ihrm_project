@@ -32,3 +32,4 @@ with open(report_name, 'wb') as f:
 # BeautifulReport(suite).report(filename=report_file, description="TPSHOP", log_path="./report")
 print("你好大宝贝")
 print("看看会不会轮训")
+print("*" * 20)
