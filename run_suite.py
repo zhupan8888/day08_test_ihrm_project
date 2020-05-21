@@ -31,3 +31,4 @@ with open(report_name, 'wb') as f:
 # report_file = "tpshop_report{}-result.html".format(time.strftime("%Y%m%d %H%M%S"))
 # BeautifulReport(suite).report(filename=report_file, description="TPSHOP", log_path="./report")
 print("你好大宝贝")
+print("看看会不会轮训")
