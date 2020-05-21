@@ -1,0 +1,12 @@
+2020-05-21 11:51:40,545 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3fba0cce-d3bb-42b5-8a30-d537530d4fcc'}
+2020-05-21 11:51:40,640 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:40,729 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:40,825 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '9b788e1d-3457-4e59-afae-6c2e31254bc4'}
+2020-05-21 11:51:40,924 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,016 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,107 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0e705733-f837-4b2e-862f-06fe9716e810'}
+2020-05-21 11:51:41,203 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,292 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,386 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,481 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:51:41,573 INFO [root] [test_ihrm_login_params.py(test01_login_success:31)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
